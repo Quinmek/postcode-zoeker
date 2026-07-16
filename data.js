@@ -40868,7 +40868,7 @@ const postcodes =  {
   },
   "1324ER": {
     stad: "Almere",
-    wijk: "De Korver Sportpark en Annapark"
+    wijk: "Kruidenwijk aan stadsdeel Almere centrum"
   },
   "1324ES": {
     stad: "Almere",
